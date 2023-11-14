@@ -1,8 +1,11 @@
 
-# Andrew's Cool Project
+# README generator
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-A really cool markdown project
+This project was built to help users built professional README files for their Github repositories
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,21 +17,18 @@ A really cool markdown project
 * [Contact](#contact)
 
 ## Installation
-clone the repo and have fun
+Clone the repo onto your local machine.
 
 ## Usage
-use the project
-
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Ensure you have node.js installed prior to running this application. Open the 'Develop' folder in your terminal and run index.js. Follow the prompts until completion.
 
 ## Contributing Guidelines
-contribute to the project
+Fork the repo as you'd like and make any changes. If you'd like your changes included in the source code, please use my email below to contact me.
 
 ## Tests
-test the project
+Run the application in the terminal. No testing should be required
 
 ## Contact
-Link to my Github: [Github](https://github.com/AndrewCMonson)
+Link to my [Github](https://github.com/AndrewCMonson)
 
-Email me [here](mailto:andrew@mail.com)
+Email me [here](mailto:andrewmonson908@gmail.com)
