@@ -13,7 +13,7 @@ This project was built to help users built professional README files for their G
 * [License](#license)
 * [Contributing Guidelines](#contributing-guidelines)
 * [Tests](#tests)
-* [Questions](#questions)
+* [Screenshots](#screenshots)
 * [Contact](#contact)
 
 ## Installation
@@ -27,6 +27,15 @@ Fork the repo as you'd like and make any changes. If you'd like your changes inc
 
 ## Tests
 Run the application in the terminal. No testing should be required
+
+## Screenshots
+### NPM Start
+![Start SS](<develop/resources/Screenshot 2023-11-20 122409.png>)
+### All prompts
+![Prompts](<develop/resources/Screenshot 2023-11-20 122655.png>)
+### Final product
+![Final README](<develop/resources/Screenshot 2023-11-20 122740.png>)
+![Final README](<develop/resources/Screenshot 2023-11-20 122802.png>)
 
 ## Contact
 Link to my [Github](https://github.com/AndrewCMonson)

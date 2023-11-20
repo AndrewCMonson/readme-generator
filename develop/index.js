@@ -116,7 +116,7 @@ inquirer
     ]).then((response) => {
         const generateMarkdown = utilityFunctions.createMarkdown;
 
-        fs.writeFile(`${response.title}-README.md`, generateMarkdown(response), (err) => {
+        fs.writeFile(`./created_READMEs/${response.title}-README.md`, generateMarkdown(response), (err) => {
             if (err) throw err;
             console.log('The file has been saved!');
         });
