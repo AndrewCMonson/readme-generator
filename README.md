@@ -10,6 +10,7 @@ This project was built to help users built professional README files for their G
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [Video Walkthrough](#video-walkthrough)
 * [License](#license)
 * [Contributing Guidelines](#contributing-guidelines)
 * [Tests](#tests)
@@ -21,6 +22,9 @@ Clone the repo onto your local machine.
 
 ## Usage
 Ensure you have node.js installed prior to running this application. Open the 'Develop' folder in your terminal and run ```npm start```. Follow the prompts until completion. Once completed, final README with all prompts will be located in the created_READMEs folder named as {project-title}-README.md.
+
+## Video Walkthrough
+Click [here](https://drive.google.com/file/d/1jEK3hOVTVCMWu7i2laCGn0FZ_Z0YTaBE/view) to view a video walkthrough.
 
 ## Contributing Guidelines
 Fork the repo as you'd like and make any changes. If you'd like your changes included in the source code, please use my email below to contact me.
