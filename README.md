@@ -20,7 +20,7 @@ This project was built to help users built professional README files for their G
 Clone the repo onto your local machine.
 
 ## Usage
-Ensure you have node.js installed prior to running this application. Open the 'Develop' folder in your terminal and run index.js. Follow the prompts until completion.
+Ensure you have node.js installed prior to running this application. Open the 'Develop' folder in your terminal and run ```npm start```. Follow the prompts until completion.
 
 ## Contributing Guidelines
 Fork the repo as you'd like and make any changes. If you'd like your changes included in the source code, please use my email below to contact me.
